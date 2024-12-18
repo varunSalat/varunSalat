@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/varun-salat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.varunsalat.com/" target="_blank">
+  <a href="https://varun-salat.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:varunsalat@gmail.com">
@@ -62,16 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunsalat&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunsalat&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsalat&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
----
 
 ### 🤝 Connect with Me
 Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!  
